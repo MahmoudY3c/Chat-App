@@ -5,7 +5,7 @@ Real-time chat application with multiple features
 1. Multimedia sharing
 2. Group chat and Live conversation
 3. Chatbot integration
-4. Admin Dashboard for the group manager for team work groups and managers
+4. Admin Dashboard for the group manager (Team work groups)
 5. Screen sharing
 6. Whiteboard
 7. Real-time translation for `text`, `Voice messages`, `audio/video`
