@@ -1,0 +1,28 @@
+[
+  {
+    "inputs": [
+      {
+        "name": "email",
+        "type": "text",
+        "label": "Email...",
+        "variant": "outlined"
+      },
+      {
+        "name": "password",
+        "type": "password",
+        "label": "Password",
+        "variant": "outlined"
+      }
+    ]
+  },
+  {
+    "buttons": [
+      {
+        "name": "",
+        "type": "button",
+        "variant": "contained",
+        "text": "login"
+      }
+    ]
+  }
+]

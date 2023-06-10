@@ -1,0 +1,7 @@
+{
+  "UsersInfo": "/api/users/info/@id",
+  "UserInfo": "/api/users/@id",
+  "Login": "/api/users/login",
+  "Register": "/api/users/register",
+  "Chat": "/api/users/chat"
+}
