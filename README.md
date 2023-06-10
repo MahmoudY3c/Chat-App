@@ -1,5 +1,5 @@
 # Summary
-Real-time express app 
+Real-time chat express app 
 
 # Structure
 
